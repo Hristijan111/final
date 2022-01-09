@@ -1,9 +1,10 @@
-// br.na.indeks - zadacha 46 ime i prezime napishi si
+// INKI 515 - zadacha 46 Hristijan Spirovski
 #include <iostream> 
 #include <sstream> 
 #include <cstring>
 #include <cctype>
 #include <iomanip>
+#include <math.h>
 using namespace std;
 
 void kodirajne(int broj)
